@@ -10,7 +10,7 @@ title: Programación Internet - Universidad de Lima
 email: hquintan@ulima.edu.pe
 description: > # this means to ignore newlines until "baseurl:"
   Información del curso programación Internet
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/silabo" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: hquintana
 github_username:  jsatch
